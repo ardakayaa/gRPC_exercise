@@ -1,0 +1,6 @@
+def addstring_id(string,dataid):
+    result = string + " " + str(dataid)
+    print result
+    return result
+
+addstring_id("hello" +331 )
